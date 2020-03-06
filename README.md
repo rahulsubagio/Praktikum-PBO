@@ -27,3 +27,7 @@ Materi konsep OOP polymerphism.. membuat program jenis hewan berdasarkan makanan
 Materi konsep OOP interface.. membuat program Animal berkaki / bermain
 
 -> Tugas 3.. (bebekamira) membuat program Level Duck
+
+### Exception
+
+Materi tentang try, catch, finally dan throw
